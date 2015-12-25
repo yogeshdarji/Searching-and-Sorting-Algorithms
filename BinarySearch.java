@@ -16,7 +16,7 @@ public class Binary {
 				low = mid + 1;
 
 			else {
-				high = mid - 1;        ////if target less than middle, then change high to mid-1
+				high = mid - 1;        //if target less than middle, then change high to mid-1
 			}
 
 		}

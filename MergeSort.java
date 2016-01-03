@@ -20,7 +20,7 @@ public class MergeSort {
 		System.arraycopy(b, 0, a, low, b.length);
 		
 	}
-	
+	//merge both the sides
 	void mergeSort(int a[],int low, int high)
 	{
 		if(low<high)

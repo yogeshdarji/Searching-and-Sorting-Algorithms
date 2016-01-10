@@ -8,6 +8,12 @@ class QuickSort{
     Scanner sc = new Scanner(System.in);
     int n = sc.nextInt();
     
+    
+    while(n!=0)
+    {
+      n--;
+    }
+    
   }
 
 }

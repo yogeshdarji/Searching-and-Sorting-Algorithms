@@ -13,7 +13,7 @@ public class Graph {
 		create();
 		visited = new boolean[n];
 	}
-
+//To create a graph
 	void create()
 	{
 		char ch;
@@ -42,7 +42,7 @@ public class Graph {
 
 	}
 
-
+//Implementation of Depth First Search(DFS)
 	void dfs(int r)
 	{
 		System.out.println((char)(r+65));

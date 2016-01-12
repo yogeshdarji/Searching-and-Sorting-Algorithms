@@ -8,7 +8,7 @@ class QuickSort{
     Scanner sc = new Scanner(System.in);
     int n = sc.nextInt();
     
-    
+    //Check for pivot and then replace the elements
     while(n!=0)
     {
       n--;

@@ -38,7 +38,7 @@ public class Graph {
 			ch = sc.next().charAt(0);
 
 
-		}while(ch=='y');	
+		}while(ch=='y');	//keep taking characters
 
 	}
 
